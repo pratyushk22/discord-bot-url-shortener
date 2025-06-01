@@ -10,7 +10,7 @@ A simple Discord bot that generates shortened URLs when users send a `create` co
 - Replies to the user with the shortened URL.
 - Serves redirections to original URLs via an Express backend.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Node.js
 - Express.js
